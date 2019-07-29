@@ -3,7 +3,7 @@
 Many observers of Robert Mueller's testimony to the House Judiciary Committee noticed a distinct difference in how different members addressed him. Republicans were often accusatory in their questioning than Democrats. Republican partisans on Twitter were often sharing moments where co-partisan MCs (Members of Congress) were aggressively attacking the legitimacy of the investigation (e.g., "Watch so-and-so **DESTROY** Mueller"). I wondered if these differences could be picked up through sentiment analysis of the MCs' questions. Spoiler alert: Yes. Yes they could. 
 
 ## Language
-The analyses was performed in R (Version 3.5.2). The full R code for the analysis and visuals is under MuelleR.R.
+The analyses was performed in R (Version 3.5.2). The full R code for the analysis and visuals is under MuelleRSent.R.
 
 ## Data
 The data comes from the transcripts of Mueller's testimony to the House Judiciary Committee published by [The Washington Post](https://www.washingtonpost.com/politics/transcript-of-robert-s-mueller-iiis-testimony-before-the-house-judiciary-committee/2019/07/24/7164abfe-ad96-11e9-a0c9-6d2d7818f3da_story.html?utm_term=.e48e1a787744). The zip file containing the text of all the members' questions to Mueller can be found in the questions_text.zip file. 
